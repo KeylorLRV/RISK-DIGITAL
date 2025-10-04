@@ -1,0 +1,173 @@
+{
+  "adyacencias": [
+    {
+      "territorio": "Mapa1",
+      "adyacentes": ["Mapa2", "Mapa3"]
+    },
+    {
+      "territorio": "Mapa2",
+      "adyacentes": ["Mapa1", "Mapa42"]
+    },
+    {
+      "territorio": "Mapa3",
+      "adyacentes": ["Mapa1", "Mapa4"]
+    },
+    {
+      "territorio": "Mapa4",
+      "adyacentes": ["Mapa3", "Mapa5", "Mapa6"]
+    },
+    {
+      "territorio": "Mapa5",
+      "adyacentes": ["Mapa4", "Mapa6", "Mapa7", "Mapa8"]
+    },
+    {
+      "territorio": "Mapa6",
+      "adyacentes": ["Mapa4", "Mapa5", "Mapa8"]
+    },
+    {
+      "territorio": "Mapa7",
+      "adyacentes": ["Mapa5", "Mapa8", "Mapa9"]
+    },
+    {
+      "territorio": "Mapa8",
+      "adyacentes": ["Mapa5", "Mapa6", "Mapa7", "Mapa9", "Mapa11"]
+    },
+    {
+      "territorio": "Mapa9",
+      "adyacentes": ["Mapa7", "Mapa8", "Mapa10", "Mapa11"]
+    },
+    {
+      "territorio": "Mapa10",
+      "adyacentes": ["Mapa9", "Mapa11"]
+    },
+    {
+      "territorio": "Mapa11",
+      "adyacentes": ["Mapa8", "Mapa9", "Mapa10"]
+    },
+    {
+      "territorio": "Mapa12",
+      "adyacentes": ["Mapa13", "Mapa14"]
+    },
+    {
+      "territorio": "Mapa13",
+      "adyacentes": ["Mapa12", "Mapa14", "Mapa15", "Mapa16"]
+    },
+    {
+      "territorio": "Mapa14",
+      "adyacentes": ["Mapa12", "Mapa13", "Mapa15", "Mapa17", "Mapa18"]
+    },
+    {
+      "territorio": "Mapa15",
+      "adyacentes": ["Mapa13", "Mapa14", "Mapa16", "Mapa17", "Mapa25"]
+    },
+    {
+      "territorio": "Mapa16",
+      "adyacentes": ["Mapa13", "Mapa15"]
+    },
+    {
+      "territorio": "Mapa17",
+      "adyacentes": ["Mapa14", "Mapa15", "Mapa18", "Mapa21", "Mapa25"]
+    },
+    {
+      "territorio": "Mapa18",
+      "adyacentes": ["Mapa14", "Mapa17", "Mapa19", "Mapa20", "Mapa21"]
+    },
+    {
+      "territorio": "Mapa19",
+      "adyacentes": ["Mapa18", "Mapa20", "Mapa21"]
+    },
+    {
+      "territorio": "Mapa20",
+      "adyacentes": ["Mapa18", "Mapa19", "Mapa21", "Mapa22", "Mapa23"]
+    },
+    {
+      "territorio": "Mapa21",
+      "adyacentes": ["Mapa17", "Mapa18", "Mapa19", "Mapa20", "Mapa22", "Mapa24", "Mapa25"]
+    },
+    {
+      "territorio": "Mapa22",
+      "adyacentes": ["Mapa20", "Mapa21", "Mapa23", "Mapa24", "Mapa27"]
+    },
+    {
+      "territorio": "Mapa23",
+      "adyacentes": ["Mapa20", "Mapa22", "Mapa27"]
+    },
+    {
+      "territorio": "Mapa24",
+      "adyacentes": ["Mapa21", "Mapa22", "Mapa25", "Mapa26", "Mapa27"]
+    },
+    {
+      "territorio": "Mapa25",
+      "adyacentes": ["Mapa15", "Mapa17", "Mapa21", "Mapa24", "Mapa26", "Mapa38"]
+    },
+    {
+      "territorio": "Mapa26",
+      "adyacentes": ["Mapa24", "Mapa25", "Mapa27", "Mapa29", "Mapa32", "Mapa38"]
+    },
+    {
+      "territorio": "Mapa27",
+      "adyacentes": ["Mapa22", "Mapa23", "Mapa24", "Mapa26", "Mapa28", "Mapa29"]
+    },
+    {
+      "territorio": "Mapa28",
+      "adyacentes": ["Mapa27", "Mapa29", "Mapa30", "Mapa31", "Mapa42"]
+    },
+    {
+      "territorio": "Mapa29",
+      "adyacentes": ["Mapa26", "Mapa27", "Mapa28", "Mapa31", "Mapa32"]
+    },
+    {
+      "territorio": "Mapa30",
+      "adyacentes": ["Mapa28", "Mapa31", "Mapa42"]
+    },
+    {
+      "territorio": "Mapa31",
+      "adyacentes": ["Mapa28", "Mapa29", "Mapa30", "Mapa32"]
+    },
+    {
+      "territorio": "Mapa32",
+      "adyacentes": ["Mapa26", "Mapa29", "Mapa31", "Mapa33", "Mapa34", "Mapa35", "Mapa38"]
+    },
+    {
+      "territorio": "Mapa33",
+      "adyacentes": ["Mapa32", "Mapa37"]
+    },
+    {
+      "territorio": "Mapa34",
+      "adyacentes": ["Mapa32", "Mapa35", "Mapa36", "Mapa37", "Mapa38"]
+    },
+    {
+      "territorio": "Mapa35",
+      "adyacentes": ["Mapa32", "Mapa34", "Mapa37"]
+    },
+    {
+      "territorio": "Mapa36",
+      "adyacentes": ["Mapa34", "Mapa37", "Mapa38", "Mapa39"]
+    },
+    {
+      "territorio": "Mapa37",
+      "adyacentes": ["Mapa33", "Mapa34", "Mapa35", "Mapa39", "Mapa40"]
+    },
+    {
+      "territorio": "Mapa38",
+      "adyacentes": ["Mapa25", "Mapa26", "Mapa32", "Mapa34", "Mapa36", "Mapa39"]
+    },
+    {
+      "territorio": "Mapa39",
+      "adyacentes": ["Mapa36", "Mapa37", "Mapa38", "Mapa40"]
+    },
+    {
+      "territorio": "Mapa40",
+      "adyacentes": ["Mapa37", "Mapa39", "Mapa41"]
+    },
+    {
+      "territorio": "Mapa41",
+      "adyacentes": ["Mapa40"]
+    },
+    {
+      "territorio": "Mapa42",
+      "adyacentes": ["Mapa2", "Mapa28", "Mapa30"]
+    }
+    
+  ]
+}
